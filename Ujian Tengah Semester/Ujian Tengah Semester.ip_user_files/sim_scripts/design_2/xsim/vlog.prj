@@ -1,0 +1,5 @@
+verilog xil_defaultlib "../../../bd/design_2/hdl/design_2.v" 
+
+verilog xil_defaultlib "glbl.v"
+
+nosort

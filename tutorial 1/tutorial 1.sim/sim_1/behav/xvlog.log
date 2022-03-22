@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/23221111/Data S2/Semester 2/System on Chip/src/single_neuron_core.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module single_neuron_core
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/23221111/Data S2/Semester 2/System on Chip/src/axi_wrapper.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module axi_wrapper
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/23221111/Data S2/Semester 2/System on Chip/src/axi_wrapper_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module axi_wrapper_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/23221111/Data S2/Semester 2/System on Chip/Project/tutorial 1/tutorial 1.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
